@@ -1,0 +1,18 @@
+1.How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+
+The plan consisted of an overview of the required classes and their constituent objects and required methods. As the program developed we conducted research and added new methods which we had not previously included in the plan. 
+
+
+2.Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+
+We aimed to follow the Single Responsibility principle where possible but at points we found it difficult, particularly when passing methods.
+
+
+3.Did you practice TDD?
+
+Yes. This was very helpful in highlighting simple errors in the code but also more complex issues around structure and requiring in the correct class files.
+
+
+4.Are each of your methods tested? Did you find anything difficult to test?
+
+Not all methods are tested and working but with some additional time we will hopefully get this working.
